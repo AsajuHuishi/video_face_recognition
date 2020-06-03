@@ -50,6 +50,6 @@ An actual example is shown below. [Video URL](https://www.bilibili.com/video/BV1
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200603163315833.gif#pic_center)
 
 ## Reference
-[https://www.cnblogs.com/mengd/p/7287119.html](https://www.cnblogs.com/mengd/p/7287119.html)<br>
+[https://www.cnblogs.com/mengd/p/7287119.html](https://www.cnblogs.com/mengd/p/7287119.html) <br>
 [Python Tkinter模块详解（后续持续补充）](https://blog.csdn.net/qq_42778168/article/details/97137618#Checkbutton%20%E5%A4%9A%E9%80%89%E6%A1%86%2FRadiobotton%20%E5%8D%95%E9%80%89%E6%A1%86)<br>
 [【Python-opencv3.4】视频基本操作（帧率，总视频帧数、从第N帧开始播放、播放进度显示、按键控制视频）](https://blog.csdn.net/imwaters/article/details/90707336)
