@@ -1,5 +1,5 @@
 ## GUI for Video Face Recognition
-It is the code to **generate a GUI for Video Face Recognition** based on Python and Face_recognition library. We generate a graphical interface to input a video, capture and output the human face in the video. It is based on article: [opencv+face_recognition+tkinter: 实现简单的视频人脸识别工具](https:). 
+It is the code to **generate a GUI for Video Face Recognition** based on Python and Face_recognition library. We generate a graphical interface to input a video, capture and output the human face in the video. It is based on article: [opencv+face_recognition+tkinter: 实现简单的视频人脸识别工具](https://blog.csdn.net/qq_36937684/article/details/106506906). 
 
 ## Requirements
 * Python 
